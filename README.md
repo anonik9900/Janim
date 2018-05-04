@@ -1,5 +1,6 @@
 # Janim
- 
+
+<img src="janim.altervista.org/images/banner.jpg>
 
 This is Janim, a free fully Jquery Basic animation devolved by Anonik.Written in JavaScript with Jquery Libs.
 
