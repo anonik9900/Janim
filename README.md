@@ -3,7 +3,7 @@
 
 This is Janim, a free fully Jquery Basic animation devolved by Anonik.Written in JavaScript with Jquery Libs.
 
-GNU GENERAL PUBLIC LICENSE v3
+# GNU GENERAL PUBLIC LICENSE v3
 
 This program is free software: you can redistribute it and/or modify
 
